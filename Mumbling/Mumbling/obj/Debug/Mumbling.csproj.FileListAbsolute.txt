@@ -1,0 +1,8 @@
+D:\CoderWars_Code\Mumbling\Mumbling\bin\Debug\Mumbling.exe.config
+D:\CoderWars_Code\Mumbling\Mumbling\bin\Debug\Mumbling.exe
+D:\CoderWars_Code\Mumbling\Mumbling\bin\Debug\Mumbling.pdb
+D:\CoderWars_Code\Mumbling\Mumbling\obj\Debug\Mumbling.csproj.AssemblyReference.cache
+D:\CoderWars_Code\Mumbling\Mumbling\obj\Debug\Mumbling.csproj.SuggestedBindingRedirects.cache
+D:\CoderWars_Code\Mumbling\Mumbling\obj\Debug\Mumbling.csproj.CoreCompileInputs.cache
+D:\CoderWars_Code\Mumbling\Mumbling\obj\Debug\Mumbling.exe
+D:\CoderWars_Code\Mumbling\Mumbling\obj\Debug\Mumbling.pdb
