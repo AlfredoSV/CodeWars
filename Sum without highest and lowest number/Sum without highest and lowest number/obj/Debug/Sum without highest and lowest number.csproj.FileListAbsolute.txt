@@ -1,0 +1,8 @@
+D:\CoderWars_Code\Sum without highest and lowest number\Sum without highest and lowest number\bin\Debug\Sum without highest and lowest number.exe.config
+D:\CoderWars_Code\Sum without highest and lowest number\Sum without highest and lowest number\bin\Debug\Sum without highest and lowest number.exe
+D:\CoderWars_Code\Sum without highest and lowest number\Sum without highest and lowest number\bin\Debug\Sum without highest and lowest number.pdb
+D:\CoderWars_Code\Sum without highest and lowest number\Sum without highest and lowest number\obj\Debug\Sum without highest and lowest number.csproj.AssemblyReference.cache
+D:\CoderWars_Code\Sum without highest and lowest number\Sum without highest and lowest number\obj\Debug\Sum without highest and lowest number.csproj.SuggestedBindingRedirects.cache
+D:\CoderWars_Code\Sum without highest and lowest number\Sum without highest and lowest number\obj\Debug\Sum without highest and lowest number.csproj.CoreCompileInputs.cache
+D:\CoderWars_Code\Sum without highest and lowest number\Sum without highest and lowest number\obj\Debug\Sum without highest and lowest number.exe
+D:\CoderWars_Code\Sum without highest and lowest number\Sum without highest and lowest number\obj\Debug\Sum without highest and lowest number.pdb
