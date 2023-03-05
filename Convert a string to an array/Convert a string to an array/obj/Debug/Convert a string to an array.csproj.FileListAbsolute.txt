@@ -1,0 +1,8 @@
+D:\CodeWars\Convert a string to an array\Convert a string to an array\bin\Debug\Convert a string to an array.exe.config
+D:\CodeWars\Convert a string to an array\Convert a string to an array\bin\Debug\Convert a string to an array.exe
+D:\CodeWars\Convert a string to an array\Convert a string to an array\bin\Debug\Convert a string to an array.pdb
+D:\CodeWars\Convert a string to an array\Convert a string to an array\obj\Debug\Convert a string to an array.csproj.AssemblyReference.cache
+D:\CodeWars\Convert a string to an array\Convert a string to an array\obj\Debug\Convert a string to an array.csproj.SuggestedBindingRedirects.cache
+D:\CodeWars\Convert a string to an array\Convert a string to an array\obj\Debug\Convert a string to an array.csproj.CoreCompileInputs.cache
+D:\CodeWars\Convert a string to an array\Convert a string to an array\obj\Debug\Convert a string to an array.exe
+D:\CodeWars\Convert a string to an array\Convert a string to an array\obj\Debug\Convert a string to an array.pdb
