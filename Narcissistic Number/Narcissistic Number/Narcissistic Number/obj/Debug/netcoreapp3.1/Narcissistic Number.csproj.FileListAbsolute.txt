@@ -1,0 +1,13 @@
+D:\CodeWars\Narcissistic Number\Narcissistic Number\Narcissistic Number\bin\Debug\netcoreapp3.1\Narcissistic Number.exe
+D:\CodeWars\Narcissistic Number\Narcissistic Number\Narcissistic Number\bin\Debug\netcoreapp3.1\Narcissistic Number.deps.json
+D:\CodeWars\Narcissistic Number\Narcissistic Number\Narcissistic Number\bin\Debug\netcoreapp3.1\Narcissistic Number.runtimeconfig.json
+D:\CodeWars\Narcissistic Number\Narcissistic Number\Narcissistic Number\bin\Debug\netcoreapp3.1\Narcissistic Number.runtimeconfig.dev.json
+D:\CodeWars\Narcissistic Number\Narcissistic Number\Narcissistic Number\bin\Debug\netcoreapp3.1\Narcissistic Number.dll
+D:\CodeWars\Narcissistic Number\Narcissistic Number\Narcissistic Number\bin\Debug\netcoreapp3.1\Narcissistic Number.pdb
+D:\CodeWars\Narcissistic Number\Narcissistic Number\Narcissistic Number\obj\Debug\netcoreapp3.1\Narcissistic Number.csproj.AssemblyReference.cache
+D:\CodeWars\Narcissistic Number\Narcissistic Number\Narcissistic Number\obj\Debug\netcoreapp3.1\Narcissistic Number.AssemblyInfoInputs.cache
+D:\CodeWars\Narcissistic Number\Narcissistic Number\Narcissistic Number\obj\Debug\netcoreapp3.1\Narcissistic Number.AssemblyInfo.cs
+D:\CodeWars\Narcissistic Number\Narcissistic Number\Narcissistic Number\obj\Debug\netcoreapp3.1\Narcissistic Number.csproj.CoreCompileInputs.cache
+D:\CodeWars\Narcissistic Number\Narcissistic Number\Narcissistic Number\obj\Debug\netcoreapp3.1\Narcissistic Number.dll
+D:\CodeWars\Narcissistic Number\Narcissistic Number\Narcissistic Number\obj\Debug\netcoreapp3.1\Narcissistic Number.pdb
+D:\CodeWars\Narcissistic Number\Narcissistic Number\Narcissistic Number\obj\Debug\netcoreapp3.1\Narcissistic Number.genruntimeconfig.cache
